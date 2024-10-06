@@ -10,6 +10,9 @@ This pattern is useful when the system needs to be independent of how its object
 ### AbstractFactory
 
     Declares an interface for creating related abstract products.
+    
+
+    - AbstractFactory
 
 ### ConcreteFactory
 
